@@ -32,7 +32,6 @@ def initialize(discount =0)
   end
 end
 
-
  
 end
  
